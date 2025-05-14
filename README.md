@@ -20,7 +20,7 @@ One inevitable danger of such an abstraction exercise is that it becomes "lowest
 
 The intention is that all work documented here will be published under the MIT licence.  As such, contributions and feedback are encouraged by all comers, subject to that constraint.
 
-As far as possible, decisions will be taken on a consultative, collaborative basis by participants and contributors.  However, most successful open-source projects (ones that are not commercially driven) operate best using a Benevolent Dictator for Life (BDFL) model, at least until they well established, mainly to avoid potential deadlock between competing approaches.  As creator of this project, I (@stevecwilkinson) hold that role; as such, I commit to acting in the best interests of the wider community and not to be a complete (*insert your favourite derogatory term here*).
+As far as possible, decisions will be taken on a consultative, collaborative basis by participants and contributors.  However, it would seem that most successful open-source projects (ones that are not commercially driven) operate best using a Benevolent Dictator for Life (BDFL) model, at least until they well established, mainly to avoid potential deadlock between competing approaches.  As creator of this project, I (@stevecwilkinson) hold that role for now; as such, I commit to acting in the best interests of the wider community and not to be a complete (*insert your favourite derogatory term here*).
 
 ## Inspiration
 
